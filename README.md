@@ -2,7 +2,7 @@
 
 This is a calculator I have created with python to demonstrate my python skills. Please have a look and feel free to grab a copy if you need it for your personal projects. Thank you
 
-[Project 2:](main.py)
+[Project 2 Calculator Code:](main.py)
 
 
 
